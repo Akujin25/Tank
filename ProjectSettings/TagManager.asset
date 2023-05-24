@@ -7,6 +7,8 @@ TagManager:
   - Enemy
   - bullet
   - bulletEnemy
+  - OnSound
+  - OffSound
   layers:
   - Default
   - TransparentFX
