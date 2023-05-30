@@ -14,7 +14,7 @@ public class CameraController : MonoBehaviour
     {
     }
 
-    public void Move(Vector3 v)
+    /*public void Move(Vector3 v)
     {
         Move(v.x, v.y);
     }
@@ -23,5 +23,5 @@ public class CameraController : MonoBehaviour
     {
         var o = gameObject;
         o.transform.position = new Vector3(x, y, o.transform.position.z);
-    }
+    }*/
 }
