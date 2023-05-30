@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 using Entity;
@@ -12,7 +12,7 @@ public class TankMover : MonoBehaviour
 
     void Start()
     {
-        speed = 1;
+        speed = 3;
     }
 
     // Update is called once per frame
